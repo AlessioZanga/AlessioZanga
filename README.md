@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alessio Zanga, a computer scientist interested in anything that is learning-related!  
+I'm Alessio Zanga, a computer scientist interested in anything that is learning-related. I'm studying & working at [University of Milan - Bicocca](https://en.unimib.it/) in a related project known as ["SENIOR - SystEm of Nudge theory based ICT applications for OldeR citizens"](https://www.researchgate.net/publication/334365592_System_of_Nudge_Theory-Based_ICT_Applications_for_Older_Citizens_The_SENIOR_Project).
 
 ### Working on :construction_worker:
 
