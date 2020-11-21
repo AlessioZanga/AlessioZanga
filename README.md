@@ -8,7 +8,7 @@ I'm actively working on:
 
 - :brain: Neural networks applied to neuroscience with [PyEEGLab](https://github.com/AlessioZanga/PyEEGLab)
 - :crystal_ball: Bayesian networks for missing data with [MADBayes](https://github.com/madlabunimib/MADBayes)
-- :robot: Reinforcement learning for general purpose with [REILLY](https://github.com/CavenaghiEmanuele/REILLY)
+- :robot: Reinforcement learning for general purpose with [REILLY](https://github.com/AlessioZanga/REILLY)
 
 ### Speaking of :speech_balloon:
 
