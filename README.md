@@ -32,4 +32,5 @@ I've also experimented with different tools, like:
 
 If you are interested in some readings:
 
+- ["Comparison of Attention-based Deep Learning Models for EEG Classification"](https://arxiv.org/abs/2012.01074)
 - ["An Attention-based Architecture for EEG Classification"](https://doi.org/10.5220/0008953502140219)
