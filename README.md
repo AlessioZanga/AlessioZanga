@@ -24,10 +24,6 @@ I've also experimented with different tools, like:
 - :a: Angular for responsive website building
 - :dart: TensorFlow and Keras for research purposes
 
-### Looking for :chart_with_upwards_trend:
-
-[![Alessio's github stats](https://github-readme-stats.vercel.app/api?username=AlessioZanga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Reading about :books:
 
 If you are interested in some readings:
@@ -35,3 +31,7 @@ If you are interested in some readings:
 - ["ACTA: A Mobile-Health Solution for Integrated Nudge-Neurofeedback Training for Senior Citizens"](https://arxiv.org/abs/2102.08692)
 - ["Comparison of Attention-based Deep Learning Models for EEG Classification"](https://arxiv.org/abs/2012.01074)
 - ["An Attention-based Architecture for EEG Classification"](https://doi.org/10.5220/0008953502140219)
+
+### Looking for :chart_with_upwards_trend:
+
+[![Alessio's github stats](https://github-readme-stats.vercel.app/api?username=AlessioZanga&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
