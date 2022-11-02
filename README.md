@@ -30,6 +30,7 @@ I've also experimented with different tools, like:
 
 If you are interested in some readings:
 
+- ["A Survey on Causal Discovery: Theory and Practice"](https://doi.org/10.1016/j.ijar.2022.09.004)
 - ["ACTA: A Mobile-Health Solution for Integrated Nudge-Neurofeedback Training for Senior Citizens"](https://arxiv.org/abs/2102.08692)
 - ["Comparison of Attention-based Deep Learning Models for EEG Classification"](https://arxiv.org/abs/2012.01074)
 - ["An Attention-based Architecture for EEG Classification"](https://doi.org/10.5220/0008953502140219)
